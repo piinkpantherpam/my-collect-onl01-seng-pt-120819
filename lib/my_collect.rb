@@ -3,7 +3,7 @@ list = ["Tim Jones", "Tom Smith", "Jim Campagno"]
 def my_collect(array)
 i = 0 
 name_collection = []
-my_collect(collection) do |lang|
+while i 
   lang.upcase
 end
 
