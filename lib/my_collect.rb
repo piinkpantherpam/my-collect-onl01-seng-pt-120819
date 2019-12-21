@@ -8,6 +8,6 @@ while i < array.length
 
 
 i += 1 
-
 end
-
+name_collection
+end
